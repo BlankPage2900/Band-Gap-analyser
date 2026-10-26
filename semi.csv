@@ -1,0 +1,21 @@
+material,Fomular,Band_Gap,Type
+Silicon,Si,1.12,Element
+Germanium,Ge,0.66,Element
+Gallium Arsenide,GaAs,,Compound
+Gallium Nitride,GaN,3.40,Compound
+4H-Silicon Carbide,SiC,3.26,Compound
+Indium Phosphide,InP,1.34,Compound
+Indium Arsenide,InAs,0.35,Compound
+Indium Antimonide,InSb,0.17,Compound
+Gallium Phosphide,GaP,2.26,Compound
+Gallium Antimonide,GaSb,0.73,Compound
+Cadmium Sulfide,CdS,2.42,Compound
+Cadmium Selenide,CdSe,1.74,Compound
+Cadmium Telluride,CdTe,1.50,Compound
+Zinc Sulfide,ZnS,3.45,Compound
+Zinc Selenide,ZnSe,2.70,Compound
+Zinc Telluride,ZnTe,2.26,Compound
+Zinc Oxide,ZnO,3.37,Compound
+Tin Dioxide,SnO2,3.60,Compound
+Titanium Dioxide (Rutile),TiO2,3.00,Compound
+Diamond,C,5.47,Element
